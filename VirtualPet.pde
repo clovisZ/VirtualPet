@@ -1,8 +1,7 @@
-
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
+void setup() {
+  size(500, 300);
 }
 
+void draw() {
+  ellipse(250, 150, 100, 100);
+}
