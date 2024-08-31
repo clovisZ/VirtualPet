@@ -6,7 +6,7 @@ void draw() {
   strokeWeight(7);
   background(153, 220, 240);
   fill(6, 66, 115);
-  rect(-6, 560, 900, 145);
+  rect(-7, 560, 900, 145);
   fill(6, 64, 43);
   ellipse(400, 350, 250, 290);
   fill(81, 56, 45);
